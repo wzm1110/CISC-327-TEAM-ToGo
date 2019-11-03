@@ -1,0 +1,29 @@
+Welcome to use our bank system please select the following option
+1. Login to an account(login):
+2. Create an account (createacct)
+3. Delete an account (deleteacct)
+4. Deposit money into an account(deposit)
+5. With draw money from an account(withdraw)
+6. Transfer money from one account to the other (transfer)
+7. Logging out(logout)
+please enter your choice: 
+Select mode: 
+1. Create an account (createacct)
+2. Delete an account (deleteacct)
+3. Deposit money into an account(deposit)
+4. With draw money from an account(withdraw)
+5. Transfer money from one account to the other (transfer)
+6. Logging out(logout)
+Select function: 
+Enter acc num: 
+Enter amount to be deposited: 
+100000
+1000.0deposited
+1. Create an account (createacct)
+2. Delete an account (deleteacct)
+3. Deposit money into an account(deposit)
+4. With draw money from an account(withdraw)
+5. Transfer money from one account to the other (transfer)
+6. Logging out(logout)
+Select function: 
+Logging out

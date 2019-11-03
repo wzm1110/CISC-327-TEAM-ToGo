@@ -1,0 +1,19 @@
+Welcome to use our bank system please select the following option
+1. Login to an account(login):
+2. Create an account (createacct)
+3. Delete an account (deleteacct)
+4. Deposit money into an account(deposit)
+5. With draw money from an account(withdraw)
+6. Transfer money from one account to the other (transfer)
+7. Logging out(logout)
+please enter your choice: 
+Can not operate before login
+Welcome to use our bank system please select the following option
+1. Login to an account(login):
+2. Create an account (createacct)
+3. Delete an account (deleteacct)
+4. Deposit money into an account(deposit)
+5. With draw money from an account(withdraw)
+6. Transfer money from one account to the other (transfer)
+7. Logging out(logout)
+please enter your choice: 
